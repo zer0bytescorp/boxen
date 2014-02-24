@@ -1,5 +1,5 @@
 class people::zer0bytes {
-	packages {
+	package {
 		'tree': ;
 		'wget': ;
 	}
