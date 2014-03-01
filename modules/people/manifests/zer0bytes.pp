@@ -3,6 +3,11 @@ class people::zer0bytes {
 	include github::apps::mac
 	include chrome
 	include iterm2::stable
+	include firefox
+	include evernote
+	include sublime_text_2
+	include skype
+	include dropbox
 
 	package {
 		'tree': ;
